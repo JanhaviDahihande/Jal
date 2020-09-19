@@ -23,3 +23,14 @@ Usage
 ```
  > node index.js
 ```
+
+Screenshot
+-----  
+
+<img alt="Sample Screenshot" src="https://raw.githubusercontent.com/JanhaviDahihande/Jal/master/Sample%20Notification.png" />
+
+FAQ
+-----  
+1. **I don't see any notification**
+  - Ensure "Do Not Disturb" mode is OFF (On Mac, it is present in the Notification drawer on the right-hand side)
+  - Give Notification permissions to Terminal app
