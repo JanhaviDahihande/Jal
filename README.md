@@ -1,0 +1,25 @@
+Jal 💦
+=======
+
+Regular reminder for drinking water
+
+
+Download
+-----
+
+1. Check whether node is installed on your machine using `node -v`. If not installed, refer https://nodejs.org/en/download/package-manager/
+2. Clone the repository
+3. Open Termial
+4. Navigate to the root folder (Jal)
+5. Run the following commands
+  ```
+    > npm install
+    > node index.js
+  ```
+4. Enjoy staying hydrated 🎉 
+
+Usage
+-----  
+```
+ > node index.js
+```
