@@ -24,11 +24,10 @@ function showNotification() {
           icon: path.join(__dirname, 'drop.png'),
           sound: true,
           wait: true,
-          actions: ['Yes'],
-          closeLabel: 'Stop'
+          actions: ['Opt out'],
         },
         function (err, response) {
-          if (response == 'closed') {
+          if (response == 'activate') {
             console.log("You opted out from reminders :(");
             clearInterval(refreshIntervalId);
           }
