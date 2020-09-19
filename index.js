@@ -17,7 +17,6 @@ function getRandomArbitrary() {
 }
 
 function showNotification() {
-    console.log("object");
     notifier.notify(
         {
           title: 'Jal 💦',
