@@ -23,3 +23,8 @@ Usage
 ```
  > node index.js
 ```
+
+Screenshot
+-----  
+
+<img alt="Sample Screenshot" src="https://raw.githubusercontent.com/JanhaviDahihande/Jal/master/Sample%20Notification.png" />
