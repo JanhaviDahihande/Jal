@@ -3,6 +3,9 @@ Jal 💦
 
 Regular reminder for drinking water
 
+**In Testing**
+
+The app is in testing so the time interval is set to 10 seconds.
 
 Download
 -----
